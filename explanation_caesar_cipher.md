@@ -1,6 +1,6 @@
 ## Explanation of the program caesar_cipher.py
 
-- Step by step explanation in Encryption:
+## Step by step explanation in Encryption:
 
   1.encrypted="" → Initializes an empty string to store the result.
 
@@ -21,7 +21,7 @@
   7.return encrypted → Return the encrypted string.
 
 
-- Explanation in Decryption:
+## Explanation in Decryption:
 
   1.Purpose: Reverses the encryption process using the same shift.
 
@@ -30,7 +30,7 @@
   3.This ensures that letters go back to their original position in the alphabet.
 
 
-- Step by step explanation in Main Program:
+## Step by step explanation in Main Program:
 
   1.Ask the user to enter a message.
 
