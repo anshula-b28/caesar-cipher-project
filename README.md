@@ -75,7 +75,7 @@ python caesar_cipher_gui.py
 
 ## 🔗 Links
 
-* GitHub Repo: https://github.com/anshula-b28/caesar-cipher-project
+* GitHub Repo: https://github.com/anshula-b28/caesar-cipher-project.git
 * Replit Link: https://caesar-cipher-project--anshulab.replit.app
 
 ---
